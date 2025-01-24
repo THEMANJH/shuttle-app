@@ -24,6 +24,8 @@ const schedule = [
 // 안녕하세요2
   //안녕하세요3
   //최장혁 바보ㅇㅇ
+  // 압정ㅂ자ㅓ압ㅈ압ㅈㅇ
+
 
   // 예약 버튼 클릭 이벤트
   reserveBtn.addEventListener("click", () => {
