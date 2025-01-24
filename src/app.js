@@ -20,7 +20,8 @@ const schedule = [
     li.textContent = shuttle.time;
     scheduleList.appendChild(li);
   });
-  
+  // 안녕하세요
+  // 안녕하세요2
   // 예약 버튼 클릭 이벤트
   reserveBtn.addEventListener("click", () => {
     const name = nameInput.value;
