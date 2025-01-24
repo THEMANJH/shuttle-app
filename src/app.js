@@ -37,7 +37,7 @@ const schedule = [
       alert("이름을 입력하세요!");
     }
   });
-  
+  // 밥 뭐 먹을래
   // 예약 목록 업데이트
   function updateReservations() {
     reservationsList.innerHTML = ""; // 기존 목록 지우기
