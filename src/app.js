@@ -21,7 +21,8 @@ const schedule = [
     scheduleList.appendChild(li);
   });
   // 안녕하세요
-  // 안녕하세요2
+// 안녕하세요2
+  //안녕하세요3
   // 예약 버튼 클릭 이벤트
   reserveBtn.addEventListener("click", () => {
     const name = nameInput.value;
