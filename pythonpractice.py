@@ -4,8 +4,7 @@ print(3213*5124)
 print(123+3)
 print('최장혁멍청아')
 
-name='김종환'
-feature='멍청함'
+name='최장혁'
+feature='멍청하'
 
-print(f"{name}은 {feature}이다")    #여기서 f는 format의 약자로 중괄호 안에 변수를 넣어서 출력할 수 있게 해준다.
-
+print(f"{name}은 {feature}다")    #여기서 f는 format의 약자로 중괄호 안에 변수를 넣어서 출력할 수 있게 해준다.
